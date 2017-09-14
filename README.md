@@ -1,4 +1,6 @@
-# Bootstrap 4 Starter Pack (BETA 4.0.0)
+Building a One Page Template using bootstrap 4
+
+Starter files was Forked from https://github.com/bradtraversy/bs4starter
 
 Includes complete Bootstrap 4.0.0-beta dev environment with gulp and sass
 
@@ -21,3 +23,4 @@ npm start
 ```
 
 Files are compiled into /src
+
