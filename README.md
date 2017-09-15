@@ -24,3 +24,6 @@ npm start
 
 Files are compiled into /src
 
+## Get free images from 
+https://www.pexels.com
+
